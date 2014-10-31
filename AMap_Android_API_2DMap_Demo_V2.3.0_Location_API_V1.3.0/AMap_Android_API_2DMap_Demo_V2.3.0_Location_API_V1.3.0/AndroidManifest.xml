@@ -24,7 +24,7 @@
         android:label="@string/demo_title" >
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="应用的Key值" />
+            android:value="ed296f82d2e9de63a4ab2aeea98df3b9" />
 
         <!--
          在android4.0以上系统中的 Activity加上下面这句，可以支持地图横竖屏切换 
